@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(250, 205, 147);
+}
+.main2{
+    background-color: bisque;
+}
+.dis {
+    display: flex;
+    justify-content: space-around;
+}
